@@ -17,9 +17,6 @@ Funcionalidades
 - HTML5 + CSS3
 - VS Code
 
-Captura de tela
-
-> *(Adicione aqui uma imagem do projeto rodando, se quiser)*
 
 Como rodar o projeto localmente
 
